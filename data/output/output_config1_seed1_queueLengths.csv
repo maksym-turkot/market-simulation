@@ -1,0 +1,4 @@
+StallID:,1,2,3,4,5,6,
+QueueLengthAvs,8,6,4,8,7,1,
+QueueLengthMin:,0,0,0,0,0,0,
+QueueLengthMax:,16,13,10,13,14,8,
